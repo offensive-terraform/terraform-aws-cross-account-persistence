@@ -24,3 +24,4 @@ output "role_arn" {
 ```
 ## Author
 Module managed by https://github.com/iganbold
+
